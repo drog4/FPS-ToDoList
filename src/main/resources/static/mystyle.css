@@ -1,0 +1,263 @@
+body {
+    font: Tahoma;
+    background-color: #a6dab5;
+}
+
+a {
+    color: #000000;
+}
+
+.login-block {
+    background-color: #7dce94;
+    font-size: 14px;
+}
+
+.btn-success a {
+    color: #ffffff;
+}
+
+.login-block img {
+    width: 75px;
+    height: 75px;
+    overflow: hidden;
+    margin-left: 30%;
+    vertical-align: middle;
+}
+
+header {
+    padding-top: 50px;
+    padding-bottom: 16px;
+}
+
+.searcher-block {
+    border: 1px solid #3d3d3f;
+}
+
+.footer-block a {
+    color: #3d3d3f;
+}
+
+.footer-block a:hover {
+    color: #3d3d3f;
+}
+
+.author {
+    margin-top: 10px;
+}
+
+.task {
+    margin-top: 68px;
+    width: 360px;
+    height: 290px;
+    background-color: #fff;
+    text-align: right;
+}
+
+.task img {
+    width: 360px;
+    height: 254px;
+}
+
+.category {
+    margin-left: 20px;
+    width: 180px;
+    height: 150px;
+    transform: skew(-5deg);
+    background-color: #fff;
+    box-shadow: 0.5em 0.5em 20px rgba(122, 122, 122, 0.5);
+    margin-top: 30px;
+}
+
+.category a {
+    margin-left: 30%;
+    vertical-align: middle;
+    color: #3d3d3f;
+}
+
+.category a:hover {
+    color: #3d3d3f;
+}
+
+.category:after {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.stat {
+    text-align: center;
+    margin-top: 60px;
+}
+
+.greenT {
+    margin-top: 10px;
+    font-size: 36pt;
+    font-family: Tahoma;
+    color: #7dce94;
+}
+
+.blackT {
+    font-size: 14pt;
+    font-family: Tahoma;
+    color: #3d3d3f;
+}
+
+li {
+    list-style-type: none;
+}
+
+nav a {
+    color: #fff;
+}
+
+nav a:hover {
+    color: #fff;
+}
+
+input[type="text"] {
+    width: 80%;
+    color: #3d3d3f;
+}
+
+button, input {
+    background: transparent;
+    border: none;
+    outline: none;
+}
+
+.profile-block {
+
+    background: #a6dab5;
+    background-origin: padding-box;
+    max-width: 1170px;
+    color: #3d3d3f;
+    font-size: 14pt;
+    font-family: Tahoma;
+    background-color: #a6dab5;
+    box-shadow: 0.5em 0.5em 20px rgba(122, 122, 122, 0.5);
+}
+
+.ed {
+    float: right;
+    padding: 5px;
+    align: right;
+    color: #3d3d3f;
+    background-color: #7dce94;
+}
+
+.advsearch-block {
+    background-color: fff;
+    background-origin: padding-box;
+    max-width: 1170px;
+    margin-top: 30px;
+}
+
+.advsearch-block input {
+    border: #3d3d3f;
+}
+
+.taskName {
+    color: #7dce94;
+    font-size: 24pt;
+    font-family: Tahoma;
+    font-weight: bold;
+}
+
+.taskInfo {
+    color: #3d3d3f;
+    font-size: 16pt;
+    font-family: Tahoma;
+    font-weight: bold;
+}
+
+.taskSeller {
+    color: #7dce94;
+    font-size: 16pt;
+    font-family: Tahoma;
+    font-weight: bold;
+}
+
+.taskBtns {
+    margin-top: 20%;
+    margin-right: 20%;
+    padding: 10px;
+    color: #fff;
+    font-size: 16pt;
+    font-family: Tahoma;
+    font-weight: bold;
+}
+
+.path {
+    margin: 10px;
+    font-size: 14pt;
+}
+
+.shadowd {
+    box-shadow: 0.5em 0.5em 20px rgba(122, 122, 122, 0.5);
+}
+
+.bgts {
+    background: transparent;
+}
+
+.bgw {
+    background: #fff;
+}
+
+.bgg {
+    background: #7dce94;
+}
+
+.img-block {
+    margin-top: 50px;
+    padding: 30px;
+}
+
+.img-block img {
+    max-width: 848px;
+}
+
+.miniBar img {
+    margin-left: 20px;
+    margin: 30px;
+    max-width: 140px;
+    max-height: 100px;
+}
+
+.pd20 {
+    padding: 20px;
+}
+
+.mg5 {
+    margin: 5px;
+}
+
+.mg15-top {
+    margin-top: 15px;
+}
+
+.Tahoma12 {
+    color: #3d3d3f;
+    font-size: 12pt;
+    font-family: Tahoma;
+}
+
+.taskstat-block {
+    padding: 5px;
+    background-color: #3d3d3f;
+    color: #fff;
+    font-size: 14pt;
+    font-family: Tahoma;
+}
+
+.desc {
+    margin: 30px;
+}
+
+.descText {
+    padding: 30px;
+    color: #3d3d3f;
+    font-size: 12pt;
+    font-family: Tahoma;
+}
